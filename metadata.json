@@ -1,0 +1,6 @@
+{
+  "name": "Gyanpeon",
+  "description": "All-in-One Study Powerhouse for Bangladesh academic and competitive exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
