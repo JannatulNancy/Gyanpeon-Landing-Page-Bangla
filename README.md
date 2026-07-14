@@ -4,7 +4,15 @@ GyanPeon is a highly polished, responsive, and modern landing page for an admiss
 
 **Official Live Site**: [https://www.gyanpeon.com/](https://www.gyanpeon.com/)
 
-Built with **React 18**, **Vite**, **TypeScript**, and styled using **Tailwind CSS** and **Motion** (Framer Motion).
+---
+
+## 📸 Platform Previews
+
+### 💻 Student Landing Page
+![GyanPeon Landing Page Preview](./src/assets/images/gyanpeon_landing_mockup_1784065122401.jpg)
+
+### 📊 Standalone Administrative Dashboard (`/admin`)
+![GyanPeon Admin Portal Preview](./src/assets/images/gyanpeon_admin_mockup_1784065135024.jpg)
 
 ---
 
